@@ -1,19 +1,35 @@
-Recursion is a programming technique where a method calls itself to solve smaller instances of the same problem. It’s often used in tasks that can be broken down into similar subtasks — such as computing factorials, traversing trees, or in our case, forecasting future values based on previous growth rates.
+### The Power and Perils of Recursion
 
-Pros of Recursion :-
--> It can make the code cleaner and more elegant.
--> Ideal for problems that have a natural recursive structure.
+**Recursion** is a powerful programming technique where a function calls itself to solve smaller, similar instances of a problem. This approach is particularly effective for problems that can be naturally divided into sub-problems, such as calculating factorials, traversing tree structures, or, as in this financial forecasting model, projecting future values based on past growth rates.
 
-Cons of Recursion :- 
--> It uses a lot of memory as each recursive call uses up stack space which can lead to stack overflow error
--> Slower than iteration in many cases, especially in tight loops or large-scale computations.
+---
 
-Analysis of the Finalcial Forecasting program
+#### Pros and Cons of Recursion
 
--> Time Complexity
---> Each recursive call reduces years by 1 until it hits 0.
---> Therefore, Time Complexity = O(n) where n is the number of years.
+**Pros**
 
--> Space Complexity
---> Recursive calls are stored in the call stack.
---> So Space Complexity = O(n) as well due to n stack frames.
+* **Elegant Code:** Recursion can lead to code that is more readable and concise, often simplifying complex logic.
+* **Natural Fit:** It is the ideal solution for problems with an inherent recursive structure, making the code's intent clear and easy to understand.
+
+**Cons**
+
+* **Memory Intensive:** Each recursive call consumes memory on the  **call stack** . Excessive recursion can lead to a  **stack overflow error** , where the program runs out of memory.
+* **Performance Overhead:** In many cases, especially for large computations, recursion can be slower than an iterative approach due to the overhead of managing function calls on the stack.
+
+---
+
+### Analysis of the Financial Forecasting Program
+
+The financial forecasting program uses a recursive approach to calculate future values. Let's analyze its performance using Big O notation.
+
+#### Time Complexity
+
+The function calls itself for each year, decrementing the number of years by one until it reaches the base case (zero years). This means the function will execute `n` times, where `n` is the number of years being forecasted.
+
+* **Time Complexity:** **O**(**n**)
+
+#### Space Complexity
+
+Each recursive call creates a new stack frame to store its local variables and the return address. Since the function calls itself `n` times, there will be `n` stack frames waiting to be resolved.
+
+* **Space Complexity:** **O**(**n**)
