@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Week2JUnit5andMockito/01SettingUpJunit/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4SpringRESTUsingSpringBoot3/CreateASpringWebProjectUsingMaven/Code/spring-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2JUnit5andMockito/03AssertionsInJunit/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2JUnit5andMockito/01MockingAndStubbing/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2JUnit5andMockito/02VerifyingInteractions/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2JUnit5andMockito/04Arrange-Act-Assert(AAA)Pattern,TestFixtures,SetupandTearDownMethodsInJUnit/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2LoggingFramework/1_LoggingErrorMessagesAndWarningLevels/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3SpringCoreAndMaven/02ImplementingDependencyInjection/Code/LibraryManagement2/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3SpringCoreAndMaven/01ConfiguringABasicSpringApplication/Code/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3SpringCoreAndMaven/04CreatingAndConfiguringAMavenProject/Code/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4SpringRESTUsingSpringBoot3/RESTCountryWebService/Code/spring-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4SpringRESTUsingSpringBoot3/HelloWorldRESTfulWebService/Code/spring-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4SpringRESTUsingSpringBoot3/RESTGetCountryBasedonCountryCode/Code/spring-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4SpringRESTUsingSpringBoot3/CreateAuthenticationServiceThatReturnsJWT/Code/spring-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4SpringRESTUsingSpringBoot3/SpringCore-LoadCountryFromSpringConfigurationXML/Code/spring-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3SpringDataJPAWithSpringBoot,Hibernate/01SpringDataJPA-QuickExample/Code/orm-learn/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

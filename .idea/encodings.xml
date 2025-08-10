@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Week2JUnit5andMockito/01MockingAndStubbing/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week2JUnit5andMockito/01MockingAndStubbing/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week2JUnit5andMockito/01SettingUpJunit/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week2JUnit5andMockito/01SettingUpJunit/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week2JUnit5andMockito/02VerifyingInteractions/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week2JUnit5andMockito/02VerifyingInteractions/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week2JUnit5andMockito/03AssertionsInJunit/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week2JUnit5andMockito/03AssertionsInJunit/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week2JUnit5andMockito/04Arrange-Act-Assert(AAA)Pattern,TestFixtures,SetupandTearDownMethodsInJUnit/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week2JUnit5andMockito/04Arrange-Act-Assert(AAA)Pattern,TestFixtures,SetupandTearDownMethodsInJUnit/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week2LoggingFramework/1_LoggingErrorMessagesAndWarningLevels/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week2LoggingFramework/1_LoggingErrorMessagesAndWarningLevels/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week3SpringCoreAndMaven/01ConfiguringABasicSpringApplication/Code/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week3SpringCoreAndMaven/01ConfiguringABasicSpringApplication/Code/LibraryManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week3SpringCoreAndMaven/02ImplementingDependencyInjection/Code/LibraryManagement2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week3SpringCoreAndMaven/02ImplementingDependencyInjection/Code/LibraryManagement2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week3SpringCoreAndMaven/04CreatingAndConfiguringAMavenProject/Code/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week3SpringCoreAndMaven/04CreatingAndConfiguringAMavenProject/Code/LibraryManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week3SpringDataJPAWithSpringBoot,Hibernate/01SpringDataJPA-QuickExample/Code/orm-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week4SpringRESTUsingSpringBoot3/CreateASpringWebProjectUsingMaven/Code/spring-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week4SpringRESTUsingSpringBoot3/CreateAuthenticationServiceThatReturnsJWT/Code/spring-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week4SpringRESTUsingSpringBoot3/HelloWorldRESTfulWebService/Code/spring-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week4SpringRESTUsingSpringBoot3/RESTCountryWebService/Code/spring-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week4SpringRESTUsingSpringBoot3/RESTGetCountryBasedonCountryCode/Code/spring-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week4SpringRESTUsingSpringBoot3/SpringCore-LoadCountryFromSpringConfigurationXML/Code/spring-learn/src/main/java" charset="UTF-8" />
+  </component>
+</project>
