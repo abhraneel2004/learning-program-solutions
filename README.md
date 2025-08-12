@@ -78,6 +78,25 @@ The repository is organized by weeks and topics, with each section containing co
 - **Score Calculator App**: Interactive calculation implementation
 - **Student App**: Educational application management
 
+### Week 7
+
+#### Advanced React Applications
+
+- **Blogger App**: Blog platform with details for different content types
+- **Cricket App**: Sports application with player listings and team information
+- **Event Examples App**: Event handling demonstrations with currency conversion
+- **Office Space Rental App**: Real estate management application
+- **Ticket Booking App**: Application with user and guest interfaces
+
+### Week 8
+
+#### Git Version Control
+
+- **Task 1**: Basic Git operations and file tracking
+- **Task 2**: Working with .gitignore and repository management
+- **Task 3**: Advanced Git commands and branching strategies
+- **Task 4**: Collaboration workflows and conflict resolution
+
 ## Getting Started
 
 Each project folder contains its own code and output directories. To run a specific example:
@@ -109,4 +128,4 @@ This project is part of an educational program and should be used accordingly.
 
 ---
 
-_This README was last updated on August 11, 2025_
+_This README was last updated on August 13, 2025_
