@@ -108,15 +108,6 @@ Each project folder contains its own code and output directories. To run a speci
    - For React applications: Use npm/pnpm start
    - For PL/SQL: Execute scripts in your Oracle environment
 
-## Prerequisites
-
-Different sections require different tools and environments:
-
-- **Java Development**: JDK 17+, Maven
-- **React Development**: Node.js, npm/pnpm
-- **Database Work**: Oracle Database for PL/SQL
-- **Spring Projects**: Spring Boot 3.x
-- **Testing**: JUnit 5, Mockito
 
 ## Contributing
 
