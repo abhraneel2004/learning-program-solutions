@@ -1,0 +1,152 @@
+/* Main App Container */
+.app-container {
+  min-height: 100vh;
+  background: #f8fafc;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Header Section */
+.app-header {
+  background: white;
+  border-bottom: 1px solid #e2e8f0;
+  padding: 24px 0;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.app-title {
+  color: #1e293b;
+  font-size: 1.875rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+/* Main Content */
+.app-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+/* Card Components */
+.page-card {
+  background: white;
+  border-radius: 8px;
+  padding: 32px;
+  margin: 24px 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e2e8f0;
+}
+
+.page-title {
+  color: #1e293b;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0 0 16px 0;
+  text-align: center;
+}
+
+.page-description {
+  color: #64748b;
+  font-size: 1rem;
+  line-height: 1.6;
+  text-align: center;
+  margin: 0 0 24px 0;
+}
+
+/* Button Styles */
+.auth-button-container {
+  text-align: center;
+  margin-top: 24px;
+}
+
+.auth-button {
+  background: #3b82f6;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.auth-button:hover {
+  background: #2563eb;
+}
+
+.logout-button {
+  background: #ef4444;
+}
+
+.logout-button:hover {
+  background: #dc2626;
+}
+
+/* User Dashboard */
+.user-dashboard {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.dashboard-card {
+  background: #f8fafc;
+  border-radius: 6px;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #e2e8f0;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.dashboard-card:hover {
+  background: #f1f5f9;
+  border-color: #cbd5e1;
+}
+
+.dashboard-title {
+  color: #1e293b;
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0 0 8px 0;
+}
+
+.dashboard-description {
+  color: #64748b;
+  font-size: 0.875rem;
+  margin: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .app-title {
+    font-size: 1.5rem;
+  }
+  
+  .page-card {
+    padding: 24px;
+    margin: 16px 0;
+  }
+  
+  .page-title {
+    font-size: 1.25rem;
+  }
+  
+  .user-dashboard {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .app-content {
+    padding: 24px 16px;
+  }
+  
+  .page-card {
+    padding: 20px;
+  }
+}

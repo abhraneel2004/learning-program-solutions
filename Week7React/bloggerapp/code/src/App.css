@@ -1,0 +1,100 @@
+body {
+  font-family: 'Poppins', 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.app-container {
+  max-width: 700px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+}
+
+.app-title {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.nav-buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  gap: 10px;
+}
+
+.nav-buttons button {
+  padding: 10px 24px;
+  border: none;
+  border-radius: 8px;
+  background-color: #f1f5f9;
+  color: #64748b;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.nav-buttons button.active {
+  background-color: #3b82f6;
+  color: white;
+  box-shadow: 0 4px 6px rgba(59, 130, 246, 0.3);
+  transform: translateY(-2px);
+}
+
+.nav-buttons button:hover:not(.active) {
+  background-color: #e2e8f0;
+  transform: translateY(-1px);
+}
+
+.component-box {
+  background-color: #f8fafc;
+  border-radius: 12px;
+  padding: 25px;
+  box-shadow: inset 0 2px 6px rgba(0,0,0,0.03);
+  margin-top: 10px;
+}
+
+/* Card styles for content */
+.content-card {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease;
+}
+
+.content-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+.content-card h3 {
+  margin-top: 0;
+  color: #3b82f6;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 8px;
+  margin-bottom: 15px;
+}
+
+.content-label {
+  font-weight: 500;
+  color: #64748b;
+  margin-right: 5px;
+}
+
+.content-value {
+  color: #334155;
+}
+
+.content-row {
+  margin-bottom: 10px;
+}

@@ -9,10 +9,12 @@ The repository is organized by weeks and topics, with each section containing co
 ### Week 1
 
 #### Data Structures and Algorithms
+
 - **E-Commerce Platform Search Function**: Implementation of search functionality with optimized algorithms
 - **Financial Forecasting**: Solutions for financial data analysis and prediction
 
 #### Design Pattern Implementation
+
 - **Adapter Pattern**: Converting interfaces of classes into another interface
 - **Builder Pattern**: Constructing complex objects step by step
 - **Factory Method Pattern**: Creating objects without specifying the exact class
@@ -21,6 +23,7 @@ The repository is organized by weeks and topics, with each section containing co
 ### Week 2
 
 #### JUnit 5 and Mockito
+
 - **Setting Up JUnit**: Basic configuration and setup
 - **Mocking and Stubbing**: Creating test doubles
 - **Verifying Interactions**: Checking method calls
@@ -28,26 +31,31 @@ The repository is organized by weeks and topics, with each section containing co
 - **AAA Pattern, Test Fixtures, Setup and Teardown**: Best practices for test organization
 
 #### Logging Framework
+
 - **Logging Error Messages and Warning Levels**: Implementation of different logging levels
 
 #### PL/SQL
+
 - **Control Structures**: Various scenarios using conditional logic in PL/SQL
 - **Stored Procedures**: Implementation of database procedures
 
 ### Week 3
 
 #### Spring Core and Maven
+
 - **Configuring a Basic Spring Application**: Foundation setup
 - **Implementing Dependency Injection**: Core Spring feature demonstrations
 - **Creating and Configuring a Maven Project**: Build automation and dependency management
 
 #### Spring Data JPA with Spring Boot and Hibernate
+
 - **Spring Data JPA - Quick Example**: Basic database operations
 - **Differences Between JPA, Hibernate and Spring Data JPA**: Conceptual explanations
 
 ### Week 4
 
 #### Spring REST Using Spring Boot 3
+
 - **Hello World RESTful Web Service**: Simple API implementation
 - **REST Country Web Service**: Building a country information API
 - **REST Get Country Based on Country Code**: Parameter-based REST API
@@ -57,11 +65,13 @@ The repository is organized by weeks and topics, with each section containing co
 ### Week 5
 
 #### Microservices with Spring Boot 3 and Spring Cloud
+
 - **Creating Microservices for Account and Loan**: Distributed application architecture
 
 ### Week 6
 
 #### React
+
 - **My First React**: Basic React application
 - **Blog App**: Content management implementation
 - **Cohorts Tracker**: Application for tracking group data
@@ -99,4 +109,4 @@ This project is part of an educational program and should be used accordingly.
 
 ---
 
-*This README was last updated on August 11, 2025*
+_This README was last updated on August 11, 2025_
